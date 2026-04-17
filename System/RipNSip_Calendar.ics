@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rip N Sip Beverages Ltd//Business Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rip N Sip — Business Calendar
+X-WR-CALDESC:Key dates\, deadlines and renewals for Rip N Sip Beverages Ltd
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:Trademarkoppositionw-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260603
+SUMMARY:🍹 Trademark opposition window closes — UK00004357625
+DESCRIPTION:UK trademark UK00004357625 Classes 32 & 33 opposition window closes today. If no opposition received\, trademark proceeds to registration. Monitor UKIPO journal.
+CATEGORIES:IP DEADLINE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Trademark opposition window closes — UK00004357625
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:PCTinternationalfili-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270413
+SUMMARY:🍹 PCT international filing deadline — P24843GB
+DESCRIPTION:Must file PCT international patent application within 12 months of UK filing date (13 April 2026). Essential markets: USA\, Europe\, Australia\, Canada. Contact Joel Briscoe at Panoramix IP well before this date. Budget ~£15\,000-20\,000.
+CATEGORIES:IP DEADLINE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PCT international filing deadline — P24843GB
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:DBScertificateexpire-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+SUMMARY:🍹 DBS certificate expires — personal licence application deadline
+DESCRIPTION:DBS certificate issued 01 April 2026 expires for personal licence application purposes on 01 May 2026. Personal licence application MUST be submitted to Huntingdonshire District Council before this date. Fee £37.
+CATEGORIES:COMPLIANCE DEADLINE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: DBS certificate expires — personal licence application deadline
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:CompaniesHouse—Confi-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270407
+SUMMARY:🍹 Companies House — Confirmation Statement due
+DESCRIPTION:Annual confirmation statement due to Companies House for Rip N Sip Beverages Ltd (17138897). File online at companieshouse.gov.uk. Failure to file results in company being struck off. Allow time to review and submit.
+CATEGORIES:COMPANIES HOUSE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Companies House — Confirmation Statement due
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:CompaniesHouse—First-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20280107
+DTEND;VALUE=DATE:20280107
+SUMMARY:🍹 Companies House — First Accounts due
+DESCRIPTION:First annual accounts due to Companies House for Rip N Sip Beverages Ltd (17138897). Engage accountant well in advance. File online at companieshouse.gov.uk.
+CATEGORIES:COMPANIES HOUSE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Companies House — First Accounts due
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:CompaniesHouse—Corpo-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20280407
+DTEND;VALUE=DATE:20280407
+SUMMARY:🍹 Companies House — Corporation Tax return due
+DESCRIPTION:Corporation Tax return due for first accounting period. Reference BRCT00003793108. Engage accountant at least 3 months before this date.
+CATEGORIES:COMPANIES HOUSE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Companies House — Corporation Tax return due
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Renewaldue—ZohoMailL-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270320
+SUMMARY:🍹 Renewal due — Zoho Mail Lite (annual)
+DESCRIPTION:Zoho Mail Lite (annual) — ANNUAL renewal. Original cost £28.8. Review whether to continue before renewing.
+CATEGORIES:RENEWAL
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Renewal due — Zoho Mail Lite (annual)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Renewaldue—Domainrip-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20290320
+DTEND;VALUE=DATE:20290320
+SUMMARY:🍹 Renewal due — Domain ripnsip.uk (3-year)
+DESCRIPTION:Domain ripnsip.uk (3-year) — 3-YEAR renewal. Original cost £31.19. Review whether to continue before renewing.
+CATEGORIES:RENEWAL
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Renewal due — Domain ripnsip.uk (3-year)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Renewaldue—CarrdProS-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270415
+SUMMARY:🍹 Renewal due — Carrd Pro Standard — landing page (annual)
+DESCRIPTION:Carrd Pro Standard — landing page (annual) — ANNUAL renewal. Original cost £15. Review whether to continue before renewing.
+CATEGORIES:RENEWAL
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Renewal due — Carrd Pro Standard — landing page (annual)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Trademarkrenewaldue—-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20360319
+DTEND;VALUE=DATE:20360319
+SUMMARY:🍹 Trademark renewal due — UK00004357625
+DESCRIPTION:UK trademark UK00004357625 (Rip N Sip\, Classes 32 & 33) due for renewal 10 years from original filing date 19 March 2026. Fee payable to UKIPO.
+CATEGORIES:IP RENEWAL
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Trademark renewal due — UK00004357625
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Check—BakPacNNNretur-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+SUMMARY:🍹 Check — BakPac NNN returned?
+DESCRIPTION:NNN Agreement v3.0 sent to BakPac on 15 April 2026. Chase if not returned. No technical disclosure until NNN signed.
+CATEGORIES:SUPPLIER
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Check — BakPac NNN returned?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Check—Polypouchrespo-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+SUMMARY:🍹 Check — Polypouch response received?
+DESCRIPTION:Introductory email sent to stephen@polypouch.co.uk on 15 April 2026. Chase if no response received by this date.
+CATEGORIES:SUPPLIER
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Check — Polypouch response received?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Check—Patentexaminat-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+SUMMARY:🍹 Check — Patent examination report due (Green Channel)
+DESCRIPTION:Combined search and examination report expected 4-6 months from filing (13 April 2026). Green Channel acceleration requested. If no report received by October 2026\, contact Joel Briscoe at Panoramix IP.
+CATEGORIES:IP MILESTONE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Check — Patent examination report due (Green Channel)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Patentfiled—P24843GB-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260413
+SUMMARY:🍹 Patent filed — P24843GB priority date
+DESCRIPTION:UK patent application P24843GB filed with UKIPO. Priority date: 13 April 2026. 24 claims\, 8 figures. Green Channel and combined S&E requested.
+CATEGORIES:MILESTONE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Patent filed — P24843GB priority date
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Trademarkpublished—o-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260403
+SUMMARY:🍹 Trademark published — opposition window opened
+DESCRIPTION:UK trademark UK00004357625 published in UKIPO Journal 2026/014. Two-month opposition window opened. Closes 03/06/2026.
+CATEGORIES:MILESTONE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Trademark published — opposition window opened
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Companyincorporated—-ripnsip@ripnsip.uk
+DTSTAMP:20260417T101316Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260407
+SUMMARY:🍹 Company incorporated — Rip N Sip Beverages Ltd
+DESCRIPTION:Rip N Sip Beverages Ltd incorporated at Companies House. Company number 17138897.
+CATEGORIES:MILESTONE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Company incorporated — Rip N Sip Beverages Ltd
+END:VALARM
+END:VEVENT
+END:VCALENDAR
