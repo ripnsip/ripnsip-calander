@@ -8,7 +8,7 @@ X-WR-CALDESC:Key dates\, deadlines and renewals for Rip N Sip Beverages Ltd
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 UID:Trademarkoppositionw-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260603
 SUMMARY:🍹 Trademark opposition window closes — UK00004357625
@@ -22,21 +22,35 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:PCTinternationalfili-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
-DTSTART;VALUE=DATE:20270413
-DTEND;VALUE=DATE:20270413
-SUMMARY:🍹 PCT international filing deadline — P24843GB
-DESCRIPTION:Must file PCT international patent application within 12 months of UK filing date (13 April 2026). Essential markets: USA\, Europe\, Australia\, Canada. Contact Joel Briscoe at Panoramix IP well before this date. Budget ~£15\,000-20\,000.
+DTSTAMP:20260423T192151Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270414
+SUMMARY:🍹 PCT international filing deadline — GB2608656.1 / P24843GB
+DESCRIPTION:Must file PCT international patent application within 12 months of UK filing date (14 April 2026). UK Application GB2608656.1. Essential markets: USA\, Europe\, Australia\, Canada. Contact Joel Briscoe at Panoramix IP well before this date. Budget ~£15\,000-20\,000.
 CATEGORIES:IP DEADLINE
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Reminder: PCT international filing deadline — P24843GB
+DESCRIPTION:Reminder: PCT international filing deadline — GB2608656.1 / P24843GB
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Formaldrawingsdeadli-ripnsip@ripnsip.uk
+DTSTAMP:20260423T192151Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270714
+SUMMARY:🍹 Formal drawings deadline — GB2608656.1 (if requested)
+DESCRIPTION:Conditional deadline. If UKIPO requests formal drawings to support application GB2608656.1\, they must be filed by this date. Panoramix IP will contact if action required.
+CATEGORIES:IP DEADLINE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Formal drawings deadline — GB2608656.1 (if requested)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:DBScertificateexpire-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260501
 SUMMARY:🍹 DBS certificate expires — personal licence application deadline
@@ -50,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:CompaniesHouse—Confi-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270407
 SUMMARY:🍹 Companies House — Confirmation Statement due
@@ -64,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:CompaniesHouse—First-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20280107
 DTEND;VALUE=DATE:20280107
 SUMMARY:🍹 Companies House — First Accounts due
@@ -78,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:CompaniesHouse—Corpo-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20280407
 DTEND;VALUE=DATE:20280407
 SUMMARY:🍹 Companies House — Corporation Tax return due
@@ -92,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:Renewaldue—ZohoMailL-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270320
 SUMMARY:🍹 Renewal due — Zoho Mail Lite (annual)
@@ -106,7 +120,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:Renewaldue—Domainrip-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20290320
 DTEND;VALUE=DATE:20290320
 SUMMARY:🍹 Renewal due — Domain ripnsip.uk (3-year)
@@ -120,7 +134,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:Renewaldue—CarrdProS-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270415
 SUMMARY:🍹 Renewal due — Carrd Pro Standard — landing page (annual)
@@ -134,7 +148,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:Trademarkrenewaldue—-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20360319
 DTEND;VALUE=DATE:20360319
 SUMMARY:🍹 Trademark renewal due — UK00004357625
@@ -147,40 +161,82 @@ DESCRIPTION:Reminder: Trademark renewal due — UK00004357625
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Check—BakPacNNNretur-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260501
-SUMMARY:🍹 Check — BakPac NNN returned?
-DESCRIPTION:NNN Agreement v3.0 sent to BakPac on 15 April 2026. Chase if not returned. No technical disclosure until NNN signed.
+UID:CallDrinksChef—reque-ripnsip@ripnsip.uk
+DTSTAMP:20260423T192151Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260424
+SUMMARY:🍹 Call DrinksChef — request NNN signature before call
+DESCRIPTION:Phone DrinksChef to request NNN signed in advance of 30-min introductory call scheduled 01/05/2026. Send NNN Master UK v4.0 by email. Do not disclose technical specifics until NNN signed and returned.
 CATEGORIES:SUPPLIER
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Check — BakPac NNN returned?
+DESCRIPTION:Reminder: Call DrinksChef — request NNN signature before call
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Check—Polypouchrespo-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260501
-SUMMARY:🍹 Check — Polypouch response received?
-DESCRIPTION:Introductory email sent to stephen@polypouch.co.uk on 15 April 2026. Chase if no response received by this date.
+UID:FollowupPolypouch—St-ripnsip@ripnsip.uk
+DTSTAMP:20260423T192151Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260424
+SUMMARY:🍹 Follow up Polypouch — Stephen
+DESCRIPTION:Introductory email sent to stephen@polypouch.co.uk on 15 April 2026. No response received. Follow up by phone or email to confirm if they are interested in proceeding.
 CATEGORIES:SUPPLIER
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Check — Polypouch response received?
+DESCRIPTION:Reminder: Follow up Polypouch — Stephen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:FileAP03atCompaniesH-ripnsip@ripnsip.uk
+DTSTAMP:20260423T192151Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260424
+SUMMARY:🍹 File AP03 at Companies House — Tink Company Secretary appointment
+DESCRIPTION:File form AP03 at Companies House WebFiling to formally register Abigail Sarah Grogan-Jarvis as Company Secretary. Login with company authentication code. Takes ~15 mins. Free. Use details exactly as per signed appointment letter 23/04/2026.
+CATEGORIES:COMPANIES HOUSE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: File AP03 at Companies House — Tink Company Secretary appointment
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:DrinksChef—30minintr-ripnsip@ripnsip.uk
+DTSTAMP:20260423T192151Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+SUMMARY:🍹 DrinksChef — 30 min introductory consultation call
+DESCRIPTION:30 minute initial consultation call with DrinksChef — potential one-stop-shop for packaging\, labelling and drinks manufacturing. Ensure NNN signed before call. Focus on capability not timeline. Key questions: flexible pouch capability\, 12% ABV spirits RTD capability\, minimum order quantity\, location\, ownership.
+CATEGORIES:SUPPLIER
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: DrinksChef — 30 min introductory consultation call
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Check—HarryBakerback-ripnsip@ripnsip.uk
+DTSTAMP:20260423T192151Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260428
+SUMMARY:🍹 Check — Harry Baker back at BakPac
+DESCRIPTION:Harry Baker (Steve Baker's son) returning from annual leave. Connor O'Driscoll to notify when NNN reviewed. Harry is the decision maker. Prepare for potential technical call.
+CATEGORIES:SUPPLIER
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Check — Harry Baker back at BakPac
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:Check—Patentexaminat-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261001
 SUMMARY:🍹 Check — Patent examination report due (Green Channel)
-DESCRIPTION:Combined search and examination report expected 4-6 months from filing (13 April 2026). Green Channel acceleration requested. If no report received by October 2026\, contact Joel Briscoe at Panoramix IP.
+DESCRIPTION:Combined search and examination report expected 4-6 months from filing (14 April 2026). Green Channel acceleration requested. If no report received by October 2026\, contact Joel Briscoe at Panoramix IP.
 CATEGORIES:IP MILESTONE
 BEGIN:VALARM
 TRIGGER:-P1D
@@ -190,7 +246,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:Patentfiled—P24843GB-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260413
 SUMMARY:🍹 Patent filed — P24843GB priority date
@@ -204,7 +260,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:Trademarkpublished—o-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260403
 SUMMARY:🍹 Trademark published — opposition window opened
@@ -218,7 +274,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:Companyincorporated—-ripnsip@ripnsip.uk
-DTSTAMP:20260417T121949Z
+DTSTAMP:20260423T192151Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260407
 SUMMARY:🍹 Company incorporated — Rip N Sip Beverages Ltd
